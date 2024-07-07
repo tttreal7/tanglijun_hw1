@@ -1,0 +1,3 @@
+C:/Users/17204/Desktop/algebra-main/build/CMakeFiles/tanglijun_hw1.dir
+C:/Users/17204/Desktop/algebra-main/build/CMakeFiles/edit_cache.dir
+C:/Users/17204/Desktop/algebra-main/build/CMakeFiles/rebuild_cache.dir
